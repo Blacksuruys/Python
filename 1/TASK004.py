@@ -2,6 +2,7 @@
 
 
 
+
 n =int(input('Введите число: '))
 fact=1
 while n>0:
