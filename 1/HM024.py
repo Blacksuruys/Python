@@ -6,9 +6,6 @@
 
 
 
-
-
-
 from random import randint
 
 n=int(input('Введите количество кустов: '))
