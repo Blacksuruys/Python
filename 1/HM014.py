@@ -2,7 +2,6 @@
 
 
 
-
 n=int(input('Введите число: '))
 degree=1
 for i in range(n):
